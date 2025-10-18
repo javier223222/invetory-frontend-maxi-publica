@@ -35,7 +35,7 @@ npm run dev
 
 La aplicación estará disponible en `http://localhost:3000`
 
-## 🐳 Docker (Recomendado)
+##  Docker (Recomendado)
 
 ```bash
 # Construir y ejecutar
